@@ -25,7 +25,7 @@ You can make contributions by submitting solutions to Programming Problems from 
 
 3. Attach Proof of Your AC Submission(Screenshot of AC Result) in the PR Discussion **ONLY** thread after making PR.
 
-4. Only recent submissions will be accepted. All submissions under 24hour poeriod are categorized as recent.
+4. Only recent submissions will be accepted. All submissions under 24hour period are categorized as recent.
 
 5. For more information see issues.
 
