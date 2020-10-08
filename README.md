@@ -27,6 +27,6 @@ You can make contributions by submitting solutions to Programming Problems from 
 
 4. Only recent submissions will be accepted. All submissions under 24hour poeriod are categorized as recent.
 
-4. For more information see issues.
+5. For more information see issues.
 
 # Happy Coding !
