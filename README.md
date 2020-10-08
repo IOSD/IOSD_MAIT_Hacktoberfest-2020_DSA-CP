@@ -12,10 +12,10 @@
 Participate in Hacktoberfest by contributing to IOSD-MAIT's DSA and CP repository.
 You can make contributions by submitting solutions to Programming Problems from following websites:
 
-1. Leetcode
-2. Codeforces
-3. Codechef
-4. CSES
+1. [Leetcode](https://leetcode.com/)
+2. [Codeforces](http://codeforces.com/)
+3. [Codechef](https://www.codechef.com/)
+4. [CSES](https://cses.fi/)
 
 ## Rules
 
